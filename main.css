@@ -1,0 +1,15 @@
+body {
+    background-color: #D83713;
+      margin: 0;
+    overflow: hidden;
+    }
+    
+    #container{
+    display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    
+    }
+    #canvas3d{
+      width: 100%;
+    }
